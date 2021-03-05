@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b71fe5c-f303-48df-8d31-e93ed3d658b4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1UnjKrVs0yc4V7HywsSxsgBuGwr" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\cms\panel\assets\assets\images\logo\logo.png" />
+      <recent name="D:\xampp\htdocs\cms\panel\assets\assets\images\logo" />
+      <recent name="$PROJECT_DIR$/application/views/user_roles_v" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\cms\panel\uploads" />
+      <recent name="D:\xampp\htdocs\cms\panel\application\views" />
+      <recent name="D:\xampp\htdocs\cms\panel\application\models" />
+      <recent name="D:\xampp\htdocs\cms\panel\application\controllers" />
+      <recent name="$PROJECT_DIR$/application/views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b71fe5c-f303-48df-8d31-e93ed3d658b4" name="Default" comment="" />
+      <created>1523124291536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523124291536</updated>
+      <workItem from="1523124294455" duration="7994000" />
+      <workItem from="1523971976097" duration="822000" />
+      <workItem from="1524032755617" duration="5000" />
+      <workItem from="1524033461064" duration="58000" />
+      <workItem from="1524439011006" duration="4261000" />
+      <workItem from="1524897109172" duration="2842000" />
+      <workItem from="1524901444703" duration="158000" />
+      <workItem from="1524904960825" duration="358000" />
+      <workItem from="1525298527476" duration="2744000" />
+      <workItem from="1525303653910" duration="440000" />
+      <workItem from="1525732228214" duration="441000" />
+      <workItem from="1525799568579" duration="250000" />
+      <workItem from="1525799889059" duration="18000" />
+      <workItem from="1525801141802" duration="114000" />
+      <workItem from="1525805642548" duration="2002000" />
+      <workItem from="1525810852535" duration="3536000" />
+      <workItem from="1525892884842" duration="55000" />
+      <workItem from="1527531123237" duration="757000" />
+      <workItem from="1529950292250" duration="4913000" />
+      <workItem from="1530215138136" duration="16000" />
+      <workItem from="1530651705152" duration="4096000" />
+      <workItem from="1575999227929" duration="5367000" />
+      <workItem from="1576005431749" duration="8214000" />
+      <workItem from="1576014571185" duration="4204000" />
+      <workItem from="1576020523454" duration="15000" />
+      <workItem from="1576021704680" duration="202000" />
+      <workItem from="1576055990499" duration="154000" />
+      <workItem from="1576098232989" duration="2844000" />
+      <workItem from="1576103451513" duration="1159000" />
+      <workItem from="1576104656745" duration="107000" />
+      <workItem from="1576160610961" duration="7829000" />
+      <workItem from="1576178648658" duration="1345000" />
+      <workItem from="1576256620016" duration="9744000" />
+      <workItem from="1576347390812" duration="2507000" />
+      <workItem from="1576417950330" duration="1438000" />
+      <workItem from="1576488442196" duration="268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/application/controllers/Product.php</url>
+          <line>39</line>
+          <properties>
+            <option name="className" value="\Product" />
+            <option name="methodName" value="new_form" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/application/controllers/Product.php</url>
+          <line>159</line>
+          <properties>
+            <option name="className" value="\Product" />
+            <option name="methodName" value="update" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/application/controllers/Product.php</url>
+          <line>244</line>
+          <properties>
+            <option name="className" value="\Product" />
+            <option name="methodName" value="delete" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/application/controllers/Product.php</url>
+          <line>307</line>
+          <properties>
+            <option name="className" value="\Product" />
+            <option name="methodName" value="isActiveSetter" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/application/controllers/Product.php</url>
+          <line>391</line>
+          <properties>
+            <option name="className" value="\Product" />
+            <option name="methodName" value="rankSetter" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/application/controllers/Product.php</url>
+          <line>135</line>
+          <properties>
+            <option name="className" value="\Product" />
+            <option name="methodName" value="update_form" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/application/controllers/Product.php</url>
+          <line>58</line>
+          <properties>
+            <option name="className" value="\Product" />
+            <option name="methodName" value="save" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
